@@ -37,7 +37,7 @@ button {
     background-color:blanchedalmond;
     top:250px;
     left:670px;
-    outline: solid black;
+    outline: solid 3px;
 }
 
 #text {
