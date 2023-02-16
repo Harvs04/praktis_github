@@ -1,0 +1,14 @@
+h1 {
+    color:grey
+}
+
+h2 {
+    color:blue;
+}
+
+img {
+    width:100px;
+    height:100px;
+    border-radius:20%;
+    outline: solid red;
+}
