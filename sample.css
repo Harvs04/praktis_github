@@ -12,3 +12,37 @@ img {
     border-radius:20%;
     outline: solid red;
 }
+
+button {
+    width:100px;
+    height:30px;
+    border-radius: 8%;
+    position:absolute;
+    top:500px;
+}
+
+#increment {
+    left:500px;
+}
+
+#decrement {
+    right:500px;
+}
+
+#board {
+    position:absolute;
+    width:200px;
+    height:300px;
+    border-radius: 20px;
+    background-color:blanchedalmond;
+    top:250px;
+    left:670px;
+    outline: solid black;
+}
+
+#text {
+    margin-left:10px;
+    margin-top:5px;
+    font-size:20px;
+    font-family:'Courier New';
+}
