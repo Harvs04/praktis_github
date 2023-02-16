@@ -7,8 +7,8 @@ function increment() {
 }
 
 function decrement() {
-    if (count == 0) document.getElementById("text").disabled = true;
-    count--;
+    if (count <= 0) alert("lowest count is 0!!!");
+    else count--;
     document.getElementById("text").innerHTML = "Score: " + count;
 }
 
